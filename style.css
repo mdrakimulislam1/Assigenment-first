@@ -49,3 +49,65 @@ padding: 20px 43px;
 color: white;
 font-size: 20px;
 }
+.section-1titel{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 200px;
+}
+
+.section-1description{
+text-align: center;
+width: 500px;
+margin: auto;
+
+
+}
+
+.box-1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+  
+}
+
+.box-2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+.box-3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+.box-container{
+display: flex;
+justify-content: space-around;
+margin-top: 50px;
+}
+
+.photo-1{
+
+margin: auto;
+padding: 110px 78px 0px 76px;
+}
+.photo-2{
+
+margin: auto;
+padding: 117px 47px 51px 47px;
+}
+.photo-3{
+
+margin: auto;
+padding: 67px 75px 0px 75px;
+}
+
+
+
+
+
