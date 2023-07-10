@@ -107,7 +107,31 @@ margin: auto;
 padding: 67px 75px 0px 75px;
 }
 
+.underline-letter{
+display: flex;
+justify-content: space-around;
+margin-top: 30px;
 
+}
 
+.section-2{
+    width: 1200px;
+height: 320px;
+background: rgba(39, 39, 39, 0.05);
+margin:150px;
+
+}
+
+.halp-container{
+display: flex;
+justify-content: space-around;
+padding: 96px 175px;
+align-items: center;
+
+}
+
+.halp-1{
+    text-align: center;
+}
 
 
