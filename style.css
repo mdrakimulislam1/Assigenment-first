@@ -134,4 +134,55 @@ align-items: center;
     text-align: center;
 }
 
+.hot-deal{
+height: 620px;
+background: rgba(229, 84, 115, 0.05)
 
+}
+
+.hot-container{
+display: flex;
+justify-content: space-around;
+
+align-items: center;
+margin: auto;
+
+
+}
+
+.btn-2{
+    padding: 20px 43px;
+    background: #E55473;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    margin-top: 50px;
+}
+.sale-titel{
+
+    color: #272727;
+
+font-size: 50px;
+
+font-weight: 800;
+
+}
+
+.sale-dis{
+    font-size: 20px;
+    width: 650px;
+    margin: auto;
+}
+
+.hot-titel{
+
+    text-align: center;
+   
+}
+
+.hot-pic{
+    padding: 100px;
+}
+
+#off{color: #E55473;}
