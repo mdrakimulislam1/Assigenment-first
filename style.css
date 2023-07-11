@@ -115,7 +115,7 @@ margin-top: 30px;
 }
 
 .section-2{
-    width: 1200px;
+    
 height: 320px;
 background: rgba(39, 39, 39, 0.05);
 margin:150px;
@@ -186,3 +186,88 @@ font-weight: 800;
 }
 
 #off{color: #E55473;}
+
+.Instagram{
+
+    text-align: center;
+    font-size: 50px;
+    margin-top: 128px;
+}
+
+.Instagram-dis{
+text-align: center;
+font-size: 20px;
+width: 500px;
+margin: auto;
+
+}
+.pic-4{
+  display: flex;
+  justify-content: center;
+ gap: 30px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+.last-section{
+
+    height: 449px;
+    width: 1460px;
+    margin: auto;
+background-image: url(./brackgrown.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}
+
+.Get-container{
+padding-top: 100px;
+
+}
+
+
+.Get-the{
+text-align: center;
+font-size: 40px;
+margin-bottom: 10px;
+
+}
+
+.Get-des{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.Subscribe{
+    text-align: center;
+   display: flex;
+align-items: center;
+justify-content: center;
+
+
+}
+
+.Email{
+    height: 20px;
+width: 600px;
+background: #FFF;
+border: none;
+padding: 22px;
+margin: 10px;
+
+
+}
+
+.info-submit{
+    height: 64px;
+    width: 150px;
+    background: #E55473;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+
+}
+
+
+
