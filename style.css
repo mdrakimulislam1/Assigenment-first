@@ -270,5 +270,46 @@ margin: 10px;
 
 }
 
+.footer{
+height: 449px;
+background: #111010;
+margin-top: 100px;
+
+}
+
+.footer-titel{
+color: white;
+text-align: center;
+font-size: 50px;
+margin-bottom: 20px;
+}
+
+.footer-dis{
+    color: white;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    font-size: 20px;
 
 
+}
+.flower{
+    color: #E55473;
+
+}
+
+.footer-container{
+padding-top: 120px;
+}
+
+.symple{
+font-size: 16px;
+text-align: center;
+color: #928f8f;
+
+}
+.all-rights{
+text-align: center;
+margin-top: 30px;
+
+}
